@@ -1,0 +1,5 @@
+# Dependencies for the generic starter and preliminary metadata baseline.
+# These alone do not reproduce the full Paper 2 dense/hybrid experiments.
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3

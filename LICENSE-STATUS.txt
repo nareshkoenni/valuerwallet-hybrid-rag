@@ -1,0 +1,3 @@
+No license is included yet.
+
+The authors should choose and add a license only after confirming they own or have permission to release all code in the repository. Do not infer reuse permission until a LICENSE file is added.
