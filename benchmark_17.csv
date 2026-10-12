@@ -1,0 +1,18 @@
+id,question,category,knowledge_sources,retrieval_route,expected_answer,metrics
+Q1,What documents are available for valuation file <FILE_NUMBER>?,Document retrieval,inward_file_attachments,Metadata + document retrieval,List,Precision/Recall/MRR
+Q2,What is the market-rate trend for properties in <LOCALITY> during <PERIOD>?,Structured trend,valuation/property tables,SQL + aggregation,Chart + summary,SQL/result accuracy + faithfulness
+Q3,How do valuation records/formats for SBI and HDFC assignments differ?,Comparison,SBI tables + generic/HDFC-linked records + reports,Hybrid,Table + explanation,Field coverage + answer relevance + faithfulness
+Q4,"What valuation methodology was used for file <FILE_NUMBER>, and what factors were considered?",Reasoning,valuation reports + valuation tables,Semantic RAG + structured context,Explanation,Faithfulness + evidence recall
+Q5,How many valuation files/reports were prepared by each report preparer during <MONTH>?,Structured aggregation,inward_register,SQL,Table,Exact numerical accuracy
+Q6,How many valuation files were handled in each locality during <PERIOD>?,Structured aggregation,inward_register,SQL,Table,Exact numerical accuracy
+Q7,How many files were inwarded and outwarded/completed during <PERIOD>?,Structured aggregation,inward_register + outward,SQL,Table,Exact numerical accuracy
+Q8,What supporting documents and evidence are available for file <FILE_NUMBER>?,Hybrid evidence,utilities + attachments + PROOFS,SQL + metadata + document retrieval,Evidence list + summary,Evidence precision/recall + faithfulness
+Q9,How many invoices were generated?,Structured aggregation,invoice,SQL,Count,Exact numerical accuracy
+Q10,What are the monthly/yearly valuation workload trends for <LOCALITY>/<PROPERTY_TYPE>?,Temporal analytics,inward_register + valuation data,SQL + aggregation,Chart + summary,Numerical accuracy + trend correctness
+Q11,What previous valuation reports are available for this property/file?,Historical retrieval,attachments + property/inward,Hybrid,List + summary,Recall@K + faithfulness
+Q12,Which candidate comparable properties are within <RADIUS> km of the subject property?,Geospatial retrieval,coordinates + property/valuation,Geo + structured + RAG,List + distances,Recall@K + distance correctness
+Q13,"What valuation characteristics are observed by area, unit, bank, format and date?",Multi-dimensional analytics,multiple valuation tables + inward/property,Hybrid analytics,Chart + summary,Numerical + aggregation accuracy
+Q14,What documentary/proof evidence supports the valuation of file <FILE_NUMBER>?,Evidence synthesis,PROOFS + attachments + utilities,Hybrid,Evidence summary,Evidence recall + faithfulness
+Q15,What photographs/evidence records are available for file <FILE_NUMBER>?,Evidence retrieval,PROOFS,Metadata retrieval,List/view,Precision/Recall
+Q16,Which statutory/property documents are available for file <FILE_NUMBER>?,Evidence retrieval,utilities + attachments,Hybrid,List/view,Evidence precision/recall
+Q17,Which historical properties across Hyderabad are candidate comparables for the subject property?,City-wide comparable retrieval,Property + valuation + historical reports,Hybrid geo/semantic,Ranked list + summary,Recall@K + relevance + faithfulness
