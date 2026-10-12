@@ -1,0 +1,22 @@
+{
+  "experiment": "Paper 2 Hybrid Retrieval",
+  "benchmark": "reconstructed_v2",
+  "total_queries": 20340,
+  "corpus_documents": 7573,
+  "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "exact_route": "literal target file_number present in query",
+  "semantic_route": "Top-20 cosine similarity fallback",
+  "top_k": 20,
+  "recall_at_5": 0.947787610619469,
+  "recall_at_10": 0.947984267453294,
+  "recall_at_20": 0.9481317600786627,
+  "mrr_at_20": 0.9477507929904683,
+  "exact_route_queries": 19276,
+  "semantic_fallback_queries": 1064,
+  "results_file": "/content/drive/MyDrive/Paper2_RAG/valuerwallet_rag/evaluations/hybrid_retrieval_v2_top20.csv",
+  "metrics_file": "/content/drive/MyDrive/Paper2_RAG/valuerwallet_rag/evaluations/hybrid_retrieval_v2_metrics.csv",
+  "created_at": "2026-08-19T17:43:51.805377",
+  "results_sha256": "dae2c1e9d6bf8d9ccb0da62a16f70f5d61262d149b9b9ffd59e27988b86c88cf",
+  "metrics_sha256": "920b0c329d9c8f5f46757118adc70b23262706fa7bd9855c327d8465605ed015"
+}

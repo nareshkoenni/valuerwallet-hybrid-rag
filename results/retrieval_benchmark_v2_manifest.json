@@ -1,0 +1,49 @@
+{
+  "benchmark_version": "reconstructed_v2",
+  "created_at": "2026-08-19T17:10:07.043556",
+  "historical_total": 20217,
+  "reconstructed_v2_total": 20340,
+  "historical_counts": {
+    "Q1": 4159,
+    "Q8": 3877,
+    "Q11": 1064,
+    "Q14": 4554,
+    "Q15": 4531,
+    "Q16": 2032
+  },
+  "reconstructed_v2_counts": {
+    "Q1": 4184,
+    "Q8": 3880,
+    "Q11": 1064,
+    "Q14": 4554,
+    "Q15": 4606,
+    "Q16": 2052
+  },
+  "differences": {
+    "Q1": 25,
+    "Q8": 3,
+    "Q11": 0,
+    "Q14": 0,
+    "Q15": 75,
+    "Q16": 20
+  },
+  "methodological_status": "Historical 20,217 benchmark membership could not be recovered exactly. Reconstructed V2 contains 20,340 query-file pairs. No records were removed merely to force agreement with historical counts.",
+  "matched_questions": [
+    "Q11",
+    "Q14"
+  ],
+  "reconstructed_questions": [
+    "Q1",
+    "Q8",
+    "Q15",
+    "Q16"
+  ],
+  "candidate_files": {
+    "Q1": "q1_reconstructed_v2.csv",
+    "Q8": "q8_reconstructed_v2.csv",
+    "Q11": "q11_reconstructed.csv",
+    "Q14": "q14_reconstructed.csv",
+    "Q15": "q15_reconstructed_v2.csv",
+    "Q16": "q16_reconstructed_v2.csv"
+  }
+}

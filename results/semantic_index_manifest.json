@@ -1,0 +1,19 @@
+{
+  "artifact": "Paper 2 semantic retrieval index",
+  "created_at": "2026-08-19T15:36:06.177140",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "normalization": "normalize_embeddings=True",
+  "batch_size": 64,
+  "documents": 7573,
+  "embedding_shape": [
+    7573,
+    384
+  ],
+  "embedding_dtype": "float32",
+  "corpus_sha256": "241cbeff58763822c201d392c6c3983f77c09cc53b75d364a4567820308b721d",
+  "embedding_sha256": "97d4c7629e170a8d75a2c493be1ca49ef60e6458c3920763e19d5d7ed6956ab3",
+  "mapping_sha256": "f02ca84c701ab49a4de670b94a52296d33fa82eeddd22c809788b857ca758472",
+  "embedding_file": "/content/drive/MyDrive/Paper2_RAG/valuerwallet_rag/indexes/semantic_embeddings.npy",
+  "mapping_file": "/content/drive/MyDrive/Paper2_RAG/valuerwallet_rag/indexes/semantic_file_mapping.csv"
+}

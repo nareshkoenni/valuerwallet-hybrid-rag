@@ -1,0 +1,27 @@
+{
+  "artifact": "rag_documents.csv",
+  "created_at": "2026-08-19T15:16:42.690485",
+  "shape": [
+    7573,
+    7
+  ],
+  "unique_file_numbers": 7573,
+  "missing_rag_text": 0,
+  "empty_rag_text": 0,
+  "attachment_records_used": 22316,
+  "orphan_attachment_records_excluded": 4,
+  "proof_records_used": 50203,
+  "orphan_proof_records_excluded": 6,
+  "raw_inward_records": 7576,
+  "normalized_inward_files": 7573,
+  "rag_columns": [
+    "file_number",
+    "rag_text",
+    "attachment_count",
+    "document_type_count",
+    "proof_count",
+    "proof_type_count",
+    "document_length"
+  ],
+  "sha256": "241cbeff58763822c201d392c6c3983f77c09cc53b75d364a4567820308b721d"
+}

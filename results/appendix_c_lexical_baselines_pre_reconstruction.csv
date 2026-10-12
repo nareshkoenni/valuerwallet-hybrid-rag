@@ -1,0 +1,3 @@
+method,recall_at_5,recall_at_10,recall_at_20,mrr,benchmark,query_and_relevance_protocol
+TF-IDF (cosine),0.9781,0.9922,0.9975,0.8838,pre-reconstruction 20217-pair benchmark (not recoverable),"query = the document's own text with that document removed (leave-one-out); hit = any retrieved document in the question's candidate pool"
+BM25 (Okapi),0.9997,1.0000,1.0000,0.9890,pre-reconstruction 20217-pair benchmark (not recoverable),"query = the document's own text with that document removed (leave-one-out); hit = any retrieved document in the question's candidate pool"
