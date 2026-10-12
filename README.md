@@ -21,7 +21,7 @@ proprietary database and all data derived from it are **not** included (see
 | `scripts/make_synthetic_p3.py`, `sample_data/` | Synthetic corpus + Q11 queries for running the Paper 3 pipeline without proprietary data |
 | `scripts/p3_verify_tables.py` | Checks Paper 3 Tables 3 and 4 against the released artifacts |
 | `benchmark/benchmark_17.csv` | The 17-question benchmark specification (templates only) |
-| `results/paper2/` | Metric tables, manifests with SHA-256 fingerprints, and an identifier-free per-query rank table |
+| `results/` | Metric tables, manifests with SHA-256 fingerprints, and an identifier-free per-query rank table |
 | `results/paper3/` | Frozen configuration, Table 3/4 source artifacts with checksums, de-identified per-query metrics, sensitivity analyses |
 
 ## Pipeline
