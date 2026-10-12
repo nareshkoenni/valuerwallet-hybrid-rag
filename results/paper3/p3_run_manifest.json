@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-10-12T05:46:16.266389",
+  "grading": "study",
+  "v2_queries": "raw",
+  "corpus_documents": 7573,
+  "queries": 1064,
+  "judged_pairs": 41157,
+  "top_k": 20,
+  "metrics": [
+    "recall_strict_at5",
+    "recall_strict_at10",
+    "recall_strict_at20",
+    "recall_graded_at5",
+    "recall_graded_at10",
+    "recall_graded_at20",
+    "mrr_strict_at20",
+    "mrr_graded_at20",
+    "ndcg_at5",
+    "ndcg_at10",
+    "ndcg_at20"
+  ],
+  "workdir_hashes": {
+    "p3_V1_top20.csv": "4b4322d90889eb48a641bff916a43a9c23a18202ca8fab918dbc95a244e1af92",
+    "p3_V2_top20.csv": "b672f0d25d2e78f2c45eb9d192e535ae7c681f94edf568dc78b19972d929f5de",
+    "p3_V3_top20.csv": "9f06f648a03a38d1a9011abff3ff531dd5d9fe8b3bba47e187cec1397e0b6926",
+    "p3_corpus_property_index.csv": "26c96756cb2e2b57995b32370578ab05906e070f7878186ebcff81bb646ab259",
+    "p3_property_representations.csv": "e234577385c0b9fa89e696484ee6b5b6d39d66cec1f96424f8550334c96d5812",
+    "p3_relevance_pool.csv": "19a44db6c5c1ae8c08e3472b56541e005d874b99b02a6eca44694a0f15c3f2b6"
+  }
+}

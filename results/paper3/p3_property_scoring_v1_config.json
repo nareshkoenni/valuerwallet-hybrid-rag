@@ -1,0 +1,42 @@
+{
+  "experiment": "P3 \u2014 Normalization-Aware Property Entity Resolution",
+  "stage": "P3-06A",
+  "identity_fields": [
+    "door_num",
+    "plot_num",
+    "survey_num",
+    "building_name"
+  ],
+  "location_fields": [
+    "village",
+    "mandal",
+    "district",
+    "pincode"
+  ],
+  "context_fields": [
+    "property_type"
+  ],
+  "identity_weight": 0.7,
+  "location_weight": 0.3,
+  "identity_coverage_penalty": true,
+  "survey_similarity": "Jaccard similarity over normalized survey tokens",
+  "scalar_similarity": "Normalized exact equality",
+  "aggregation": "Weighted mean over available fields",
+  "identity_score_definition": "agreement multiplied by identity evidence coverage",
+  "property_score_definition": "0.70 * identity_score + 0.30 * location_score",
+  "missing_value_policy": "Missing or malformed values do not contribute evidence",
+  "malformed_value_policy": {
+    "ward number:": "treated as missing",
+    "": "treated as missing",
+    "-": "treated as missing",
+    "nan": "treated as missing",
+    "none": "treated as missing",
+    "null": "treated as missing"
+  },
+  "evaluation_target": "Q11 historical/property-aware retrieval",
+  "evaluation_queries": 1064,
+  "corpus_documents": 7573,
+  "tuning_after_test_set_evaluation": false,
+  "existing_artifacts_modified": false,
+  "created_at": "2026-08-28T00:11:26.401735"
+}

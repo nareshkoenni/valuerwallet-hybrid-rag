@@ -1,0 +1,12 @@
+source,relevance_grade,pairs
+independent_P3-06I (pairs in V3 top-20),0,18868
+independent_P3-06I (pairs in V3 top-20),1,698
+independent_P3-06I (pairs in V3 top-20),2,1377
+independent_P3-06I (pairs in V3 top-20),3,337
+expansion_P3-10D (pairs only in V1/V2 top-20),0,17850
+expansion_P3-10D (pairs only in V1/V2 top-20),1,1740
+expansion_P3-10D (pairs only in V1/V2 top-20),2,287
+"final pool (41,157)",0,36718
+"final pool (41,157)",1,2438
+"final pool (41,157)",2,1664
+"final pool (41,157)",3,337

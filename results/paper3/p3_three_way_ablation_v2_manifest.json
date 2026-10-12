@@ -1,0 +1,40 @@
+{
+  "artifact": "p3_three_way_ablation_v2",
+  "created_utc": "2026-08-28T05:35:16.493898+00:00",
+  "retrievers": {
+    "V1": "PropertyAware",
+    "V2": "UniformProperty",
+    "V3": "InformationWeightedProperty"
+  },
+  "q11_queries": 1064,
+  "retrieval_rows": {
+    "V1": 21280,
+    "V2": 21280,
+    "V3": 21280
+  },
+  "relevance_pool": {
+    "historical_independent": 21280,
+    "verified_expansion": 19877,
+    "total": 41157
+  },
+  "metrics": [
+    "recall_strict_at5",
+    "recall_strict_at10",
+    "recall_strict_at20",
+    "recall_graded_at5",
+    "recall_graded_at10",
+    "recall_graded_at20",
+    "mrr_strict_at20",
+    "mrr_graded_at20",
+    "ndcg_at5",
+    "ndcg_at10",
+    "ndcg_at20"
+  ],
+  "pairwise_tests": [
+    "Wilcoxon signed-rank",
+    "Holm multiple-comparison correction",
+    "10,000-query-bootstrap 95% confidence intervals"
+  ],
+  "unjudged_policy": "Unjudged candidates excluded pairwise; not assigned grade zero",
+  "frozen_artifacts_modified": false
+}
