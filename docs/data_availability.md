@@ -33,6 +33,6 @@ artifacts as the study by comparing SHA-256 digests.
 
 ## Requesting access
 
-Access to the research snapshot requires institutional/client authorisation. Contact the
+Access to the Research snapshot requires institutional/client authorisation. Contact the
 corresponding author (see the manuscript) with the intended use. Any release will be limited to
 what that authorisation permits.
