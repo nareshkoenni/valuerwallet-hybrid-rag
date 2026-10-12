@@ -1,0 +1,81 @@
+file_number,door_num,plot_num,survey_num,village,mandal,district,pincode,building_name,property_type
+SYN-0002,,,,Ashgrove,Brightwater,Bluefield,500066,Green Court,Flat
+SYN-0003,,,"299,260",Ashgrove,Brightwater,Bluefield,,Green Court,Flat
+SYN-0005,Flat No.380,,Sy.No. 255/B,Marrow Cross,Eastmark,Bluefield,,River Park,Old_Land_and_Building
+SYN-0007,,286 North Part,"Sy.No. 175/B,180/B",Ashgrove,Brightwater,bluefield,,Maple Towers,Semi_Finished_Flat
+SYN-0008,,286 North Part,,Ashgrove,Brightwater,Bluefield,500066,Maple Towers,Semi_Finished_Flat
+SYN-0011,,,,Alderbank,Eastmark,redfield,500011,Maple Towers,Semi_Finished_Flat
+SYN-0012,10-54,,,Alderbank,Eastmark,Redfield,,Maple Towers,Semi_Finished_Flat
+SYN-0014,10-82,,,Tinwick,Eastmark,Redfield,500077,Maple Towers,Old_Land_and_Building
+SYN-0018,,,241,Ashgrove,Brightwater,Bluefield,500066,Lakeview Residency,Villa
+SYN-0019,,,Sy.No. 241,Ashgrove,Brightwater,Bluefield,500066,Lakeview Residency,Villa
+SYN-0022,Flat No.223,133 North Part,68 & 379/A & 235/B,Marrow Cross,Eastmark,bluefield,500044,River Park,Semi_Finished_Flat
+SYN-0023,,133 North Part,"Sy.No. 68,379/A,235/B",Marrow Cross,Eastmark,Bluefield,500044,River Park,Semi_Finished_Flat
+SYN-0027,,201,,Marrow Cross,Eastmark,Bluefield,500044,,Villa
+SYN-0028,,201,,Marrow Cross,Eastmark,Bluefield,500044,,Villa
+SYN-0031,22-54,48 North Part,"Sy.No. 10/A,284/A",Tinwick,Eastmark,redfield,500077,Maple Towers,Flat
+SYN-0034,,,26 & 104/A,Lowmere,Westmark,Redfield,500055,,Land
+SYN-0039,5-81,,,Alderbank,Eastmark,redfield,500011,,Old_Land_and_Building
+SYN-0040,5-81,,,Alderbank,Eastmark,Redfield,500011,,Old_Land_and_Building
+SYN-0046,,112,"238/A,239",Alderbank,Eastmark,Redfield,500011,River Park,Villa
+SYN-0049,1-42,,,ashgrove,Brightwater,Bluefield,,,Land
+SYN-0052,11-61,145,"Sy.No. 208/B,123/A",Kestrel Hill,Brightwater,Redfield,500033,Maple Towers,Semi_Finished_Flat
+SYN-0053,11-61,145,208/B and 123/A,Kestrel Hill,Brightwater,Redfield,500033,Maple Towers,Semi_Finished_Flat
+SYN-0056,Flat No.317,,,Alderbank,Eastmark,redfield,,Maple Towers,Semi_Finished_Flat
+SYN-0057,,,,Alderbank,Eastmark,Redfield,500011,Maple Towers,Semi_Finished_Flat
+SYN-0059,17-68,,"Nos. 269/B, 99/A",Kestrel Hill,Brightwater,Redfield,500033,Lakeview Residency,Villa
+SYN-0060,17-68,,"Nos. 269/B, 99/A",Kestrel Hill,Brightwater,Redfield,500033,Lakeview Residency,Villa
+SYN-0064,,,169,Alderbank,Eastmark,Redfield,500011,Sunrise Heights,Semi_Finished_Flat
+SYN-0068,Flat No.486,,,Lowmere,Westmark,Redfield,500055,Maple Towers,Old_Land_and_Building
+SYN-0069,Flat No.486,,,Lowmere,Westmark,Redfield,500055,Maple Towers,Old_Land_and_Building
+SYN-0075,,105,"Sy.No. 348/A,95/B,160",Lowmere,Westmark,redfield,500055,Sunrise Heights,Flat
+SYN-0076,Flat No.474,105,"348/A,95/B,160",Lowmere,Westmark,redfield,500055,Sunrise Heights,Flat
+SYN-0080,Flat No.417,114 North Part,"Nos. 315, 243, 290",Tinwick,Eastmark,redfield,500077,Green Court,Old_Land_and_Building
+SYN-0081,Flat No.417,114 North Part,"315,243,290",tinwick,Eastmark,redfield,500077,Green Court,Old_Land_and_Building
+SYN-0082,Flat No.417,114 North Part,"Sy.No. 315,243,290",Tinwick,Eastmark,Redfield,,Green Court,Old_Land_and_Building
+SYN-0085,,,"Nos. 313/A, 82/A",Northvale,Westmark,bluefield,500022,River Park,Land
+SYN-0086,13-17,,"Nos. 313/A, 82/A",Northvale,Westmark,bluefield,500022,River Park,Land
+SYN-0090,38-18,,,Lowmere,Westmark,redfield,500055,Sunrise Heights,Villa
+SYN-0091,38-18,,,Lowmere,Westmark,Redfield,500055,Sunrise Heights,Villa
+SYN-0093,,,Sy.No. 73/A,Alderbank,Eastmark,Redfield,500011,Sunrise Heights,Semi_Finished_Flat
+SYN-0094,,,73/A,Alderbank,Eastmark,Redfield,500011,Sunrise Heights,Semi_Finished_Flat
+SYN-0095,,,Nos. 73/A,Alderbank,Eastmark,redfield,500011,Sunrise Heights,Semi_Finished_Flat
+SYN-0102,,3,,Alderbank,Eastmark,Redfield,500011,Maple Towers,Villa
+SYN-0103,,3,,Alderbank,Eastmark,Redfield,500011,Maple Towers,Villa
+SYN-0107,Flat No.383,166,353/A & 297 & 65/A,Kestrel Hill,Brightwater,Redfield,500033,Maple Towers,Villa
+SYN-0108,Flat No.383,166,"353/A,297,65/A",Kestrel Hill,Brightwater,redfield,500033,Maple Towers,Villa
+SYN-0110,15-65,,"310/B,208",Tinwick,Eastmark,Redfield,500077,,Villa
+SYN-0111,15-65,,"Sy.No. 310/B,208",tinwick,Eastmark,redfield,500077,,Villa
+SYN-0113,21-2,55,83/B,Kestrel Hill,Brightwater,Redfield,500033,Sunrise Heights,Semi_Finished_Flat
+SYN-0116,Flat No.514,241 North Part,75/A,Kestrel Hill,Brightwater,redfield,500033,,Old_Land_and_Building
+SYN-0117,Flat No.514,241 North Part,75/A,Kestrel Hill,Brightwater,redfield,500033,,Old_Land_and_Building
+SYN-0121,,207 North Part,313/B,Marrow Cross,Eastmark,Bluefield,500044,River Park,Flat
+SYN-0122,,207 North Part,Sy.No. 313/B,Marrow Cross,Eastmark,bluefield,500044,River Park,Flat
+SYN-0126,26-93,,"154,4,98/A",Alderbank,Eastmark,Redfield,500011,River Park,Flat
+SYN-0127,26-93,,154 & 4 & 98/A,Alderbank,Eastmark,redfield,500011,River Park,Flat
+SYN-0128,,,154 and 4 and 98/A,Alderbank,Eastmark,Redfield,500011,River Park,Flat
+SYN-0133,24-74,,,Ashgrove,Brightwater,bluefield,500066,Lakeview Residency,Villa
+SYN-0134,,,,Ashgrove,Brightwater,bluefield,500066,Lakeview Residency,Villa
+SYN-0138,Flat No.143,,385/B,Oakreach,Westmark,bluefield,500088,Sunrise Heights,Land
+SYN-0139,Flat No.143,284,385/B,Oakreach,Westmark,bluefield,500088,Sunrise Heights,Land
+SYN-0140,Flat No.143,284,385/B,Oakreach,Westmark,bluefield,500088,Sunrise Heights,Land
+SYN-0146,Flat No.463,,163,Alderbank,Eastmark,redfield,500011,Sunrise Heights,Land
+SYN-0147,Flat No.463,,163,Alderbank,Eastmark,redfield,500011,Sunrise Heights,Land
+SYN-0149,31-15,,,Marrow Cross,Eastmark,bluefield,500044,Sunrise Heights,Old_Land_and_Building
+SYN-0150,31-15,,,Marrow Cross,Eastmark,Bluefield,500044,Sunrise Heights,Old_Land_and_Building
+SYN-0151,31-15,,,Marrow Cross,Eastmark,bluefield,500044,Sunrise Heights,Old_Land_and_Building
+SYN-0155,,34,,Marrow Cross,Eastmark,bluefield,500044,River Park,Land
+SYN-0157,3-21,,265 & 62/A & 366,Ashgrove,Brightwater,Bluefield,,Lakeview Residency,Old_Land_and_Building
+SYN-0159,3-21,295,"Sy.No. 265,62/A,366",Ashgrove,Brightwater,Bluefield,500066,Lakeview Residency,Old_Land_and_Building
+SYN-0161,Flat No.399,,,Northvale,Westmark,bluefield,500022,Maple Towers,Villa
+SYN-0162,Flat No.399,,,Northvale,Westmark,Bluefield,500022,Maple Towers,Villa
+SYN-0166,Flat No.175,181,,alderbank,Eastmark,redfield,500011,Lakeview Residency,Flat
+SYN-0167,Flat No.175,181,,alderbank,Eastmark,Redfield,500011,Lakeview Residency,Flat
+SYN-0169,,178 North Part,62,Tinwick,Eastmark,redfield,500077,River Park,Semi_Finished_Flat
+SYN-0171,Flat No.380,236 North Part,"Nos. 314/A, 241/A",Marrow Cross,Eastmark,Bluefield,500044,Green Court,Villa
+SYN-0173,36-9,32 North Part,"Sy.No. 226/A,377,267",Kestrel Hill,Brightwater,Redfield,500033,,Villa
+SYN-0174,36-9,32 North Part,"Sy.No. 226/A,377,267",Kestrel Hill,Brightwater,Redfield,500033,,Villa
+SYN-0179,Flat No.325,272 North Part,,Tinwick,Eastmark,redfield,500077,Sunrise Heights,Land
+SYN-0182,,,"Sy.No. 394/B,291/A,332/B",Tinwick,Eastmark,Redfield,500077,River Park,Villa
+SYN-0184,Flat No.107,,394/B and 291/A and 332/B,Tinwick,Eastmark,Redfield,500077,River Park,Villa
+SYN-0187,,,301,Alderbank,Eastmark,redfield,500011,Lakeview Residency,Flat
